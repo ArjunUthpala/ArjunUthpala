@@ -1,8 +1,32 @@
 # Who's Arjun? 🤔
 ## https://www.linkedin.com/in/ArjunUthpala/
 
-A brilliant problem solver, innovative visionary, and team player, I am currently working as an Associate Software Engineer at a product development firm, where I am focused on Laravel backend, Vue.js front-end and Flutter mobile app development. My passion for learning and adding new things to my repertoire drives me to stay up-to-date with cutting-edge technologies. In my spare time, I manage a YouTube channel aimed at encouraging young people to get interested in information technology. As a technophile, I am enthusiastic about software engineering and love connecting with other software engineers in the field. If you share my passion for technology and software development, feel free to connect and get in touch!
+👋 Hi there! I’m Arjun Uthpala Waththegedara — a results-driven Software Engineer and Team Lead at Parallax Technologies (Pvt) Ltd. Over the past three years, I’ve architected and delivered end-to-end solutions using PHP/Laravel, Vue.js, Flutter, MySQL, and Redis, while mentoring junior developers and ensuring the successful rollout of production-grade software.
 
+🔧 What I Do:
+
+Full-Stack Development: I specialize in building robust APIs and microservices in Laravel, intuitive functional UIs with Vue.js, and cross-platform mobile apps with Flutter.
+
+System & Database Design: I design scalable system architectures and ensure high-performance database structures with a strong focus on data reliability.
+
+Technical Leadership: I lead by example—offering mentorship, technical guidance, following up sprints, and conducting detailed code reviews that uplift team standards.
+
+💬 What Sets Me Apart:
+
+Excellent communication skills that bridge the gap between technical and non-technical parties within organization
+
+A can-do attitude and a strong sense of ownership—I take initiative, adapt quickly, and thrive both team and project forward
+
+Passion for collaborative problem-solving and delivering real-world impact through code
+
+🌍 Looking Ahead:
+I’m open to remote or hybrid opportunities where I can contribute meaningfully, grow alongside a strong team, and help build scalable, impactful software.
+
+🛠 Other Skills:
+I have a basic understanding of DevOps concepts such as CI/CD, server management, monitoring, traffic analysis and manage server costs and I'm always eager to expand my skillset in that direction.
+
+🌐 Let’s Connect:
+If you're working on meaningful products, innovative platforms, or remote-first teams, I’d love to hear from you!
 ## Exposure : 
 * Backend Technologies - Laravel, ASP.net Core
 * Front-end Technologies - Vue.js, Bootstrap, CSS, JavaScript
